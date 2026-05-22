@@ -1,0 +1,13 @@
+.straight{
+    padding-top: 60px;
+    margin-top: 31px;
+    &__info{
+        display: flex;
+        gap: 10px;
+        &-img{
+           width: 100%;
+           margin-top: -170px;
+           position: relative;
+        }
+    }
+}
