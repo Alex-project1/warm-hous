@@ -232,6 +232,9 @@ table {
   grid-template-rows: 0fr;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
+  line-height: 25px;
+  color: #B5AB9F;
+  background-color: rgba(59, 59, 59, 0.8);
 }
 .header .menu__items-wrap::before {
   position: absolute;
